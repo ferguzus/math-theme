@@ -52,16 +52,17 @@ Follow these steps to set up the project:
     ```bash
     npx expo start   
     ```
-Cloning the Repository
+   Cloning the Repository
 If you need to clone the repository, use the following command:
-    ```bash
-    git https://github.com/ferguzus/math-theme
-    ```
+       ```bash
+    
+       git clone https://github.com/ferguzus/math-theme
 
-Running the App
+   
+   Running the App
 After following the setup instructions, you can run the app on your device or emulator by scanning the QR code displayed in the terminal or in the Expo Go app.
 
-## Additional Resources
+   ## Additional Resources
 
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Expo Documentation](https://docs.expo.dev/)
+   - [React Native Documentation](https://reactnative.dev/docs/getting-started)
+   - [Expo Documentation](https://docs.expo.dev/)
