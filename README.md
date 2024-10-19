@@ -54,12 +54,11 @@ Follow these steps to set up the project:
     ```
    Cloning the Repository
 If you need to clone the repository, use the following command:
-       ```bash
-    
-       git clone https://github.com/ferguzus/math-theme
 
-   
-   Running the App
+   ```bash
+   git clone https://github.com/ferguzus/math-theme
+
+Running the App
 After following the setup instructions, you can run the app on your device or emulator by scanning the QR code displayed in the terminal or in the Expo Go app.
 
    ## Additional Resources
